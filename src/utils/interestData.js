@@ -15,4 +15,12 @@ export const interestData = [
     name: "Sudan",
     interest: "32%",
   },
+  {
+    name: "Russia",
+    interest: "80%",
+  },
+  {
+    name: "China",
+    interest: "30%",
+  },
 ];

@@ -1,6 +1,12 @@
+![React Map](https://i.imgur.com/c0OZ15I.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# How to edit data
+
+In order to edit interest data for maps use interestData.js file (`src/utils/interestData.js`)
 
 ## Available Scripts
 
